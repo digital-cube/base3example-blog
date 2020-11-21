@@ -1,0 +1,6 @@
+[submodule "users"]
+	path = users
+	url = git@github.com:digital-cube/base3service-users.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:digital-cube/base3service-blog.git
