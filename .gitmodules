@@ -4,3 +4,9 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:digital-cube/base3service-blog.git
+[submodule "base3"]
+	path = base3
+	url = git@github.com:digital-cube/BASE
+[submodule "mailer"]
+	path = mailer
+	url = git@github.com:digital-cube/base3service-mailer
